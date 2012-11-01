@@ -1,0 +1,2 @@
+FORMS += \
+    dialog.ui
